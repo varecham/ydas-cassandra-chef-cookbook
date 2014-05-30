@@ -1,5 +1,5 @@
 default[:cassandra] = {
-  :cluster_name => "Test Cluster",
+  :cluster_name => "Ydas Cluster",
   :initial_token => "",
   :version => '2.0.7',
   :service_name => 'cassandra',
