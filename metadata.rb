@@ -6,7 +6,7 @@ description      "Installs/configures Apache Cassandra"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          "2.2.0"
 
-depends "java"
-depends "apt"
-depends "yum", "~> 3.0"
-depends "ark"
+#depends "java"
+#depends "apt"
+#depends "yum", "~> 3.0"
+#depends "ark"
